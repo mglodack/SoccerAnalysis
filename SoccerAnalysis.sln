@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25123.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "SoccerAnalysis", "SoccerAnalysis.fsproj", "{2E06BA28-B785-4CAE-9748-9E2FA8037AA6}"
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "SoccerAnalysis", "src\SoccerAnalysis\SoccerAnalysis.fsproj", "{2E06BA28-B785-4CAE-9748-9E2FA8037AA6}"
 EndProject
-Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "TeamMapping", "TeamMapping\TeamMapping.fsproj", "{73081479-C2D0-4B59-9A81-01C34E8BBBFF}"
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "TeamMapping", "src\TeamMapping\TeamMapping.fsproj", "{73081479-C2D0-4B59-9A81-01C34E8BBBFF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
